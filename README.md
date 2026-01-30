@@ -1,6 +1,6 @@
 # Testimony – Forensics CTF Challenge
 
-## 🧩 Challenge Description
+##  Challenge Description
 
 A compressed file was recovered from a suspicious workstation.  
 At first glance, it appears harmless, but deeper inspection reveals hidden metadata and concealed data.
@@ -13,17 +13,17 @@ Everything you need is contained within the provided files.
 
 ---
 
-## 📂 Category
+##  Category
 Forensics
 
-## 🎯 Difficulty
+## Difficulty
 Medium
 
-## 🏁 Flag Format
+##  Flag Format
 CTF{...}
 
-## 📦 Provided Files
+##  Provided Files
 - testimony.zip
 
-## ✍️ Author
+##  Author
 Pogue (2026)
