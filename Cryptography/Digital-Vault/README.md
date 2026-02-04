@@ -37,6 +37,6 @@ Easyy
 Pogue (2026)
 ---
 
-## 🚩 Flag Format
+## Flag Format
 
 CTF{...}
